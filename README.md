@@ -7,9 +7,9 @@ Aprendiendo sobre Matrices :)
 
 Condiciones  |
 ------------- |
-- La condición que deben cumplir las matrices para que que se puedan sumar (o restar) es que sean de las misma dimensión, esto es, que tengan el mismo número de filas y el mismo número de columnas|
+- La condición que deben cumplir las matrices para que que se puedan sumar (o restar) es que sean de las misma dimensión, esto es, que tengan el mismo número de filas y el mismo número de columnas
 
-```pyhton
+```python
 # Funcion para llenar la matriz
 def llenar_matriz(matriz):
     matriz =[]
@@ -87,9 +87,9 @@ if __name__ == "__main__":
 Condiciones  |
 ------------- |
 - la primera debe tener el mismo número de columnas que filas la segunda.
-- La matriz resultante del producto quedará con el mismo número de filas de la primera y con el mismo número de columnas de la segunda. |
+- La matriz resultante del producto quedará con el mismo número de filas de la primera y con el mismo número de columnas de la segunda. 
 
-```pyhton
+```python
 
 #Funcion para llenamr la matriz
 def llenar_matriz ():
@@ -159,9 +159,9 @@ if __name__ == "__main__":
 
 Condiciones  |
 ------------- |
-La traspuesta de una matriz A consiste en intercambiar las filas por las columnas (o las columnas porlas filas) y se denota por: A^T|
+La traspuesta de una matriz A consiste en intercambiar las filas por las columnas (o las columnas porlas filas) y se denota por: A^T
 
-```pyhton
+```python
 Funcion para llenar la matriz
 def llenar_matriz ():
     num_fila = int (input ("Ingrese el numero de filas:"))
@@ -200,7 +200,7 @@ if __name__ == "__main__":
 > #### Ejercicio 4
 > Desarrollar un programa que sume los elementos de una columna dada de una matriz.
 
-```pyhton
+```python
 
 #Se crea una funcion para llenar la matriz
 def llenar_matriz ():
@@ -235,7 +235,7 @@ if __name__ == "__main__": #Funcion principal
 > #### Ejercicio 5
 > Desarrollar un programa que sume los elementos de una fila dada de una matriz.
 
-```pyhton
+```python
 
 #Se crea una funcion para llenar la matriz
 def llenar_matriz ():
